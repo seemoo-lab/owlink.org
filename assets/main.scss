@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.logo {
+	height: 26px;
+	float: left;
+	margin-top: 14px;
+	margin-right: 1em;
+	vertical-align: middle
+}
+
+.screenshot {
+	float: right;
+	width: 33%;
+	padding: 15px;
+	border: 1px solid #e8e8e8;
+	background: white;
+}
+
+.caption {
+	width: 100%;
+	font-size: smaller;
+	text-align: center;
+	margin-top: 1em;
+}
+
+.poweredby-logo {
+	margin-right: 1em;
+	margin-bottom: 1em;
+	float: left;
+	width: 20%;
+}
+
+.highlighter-rouge .highlight, pre, code {
+    background-color: #f7f7f7;
+}
+
+.contact-list a:hover {
+    text-decoration: none;
+}
+
+.contact-list a:hover .url {
+	text-decoration: underline;
+}
