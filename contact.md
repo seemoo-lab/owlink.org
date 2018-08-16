@@ -13,6 +13,7 @@ permalink: /contact/
 * **David Kreitschmann**
 <a href="mailto:dkreitschmann@seemoo.tu-darmstadt.de"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#envelope' | relative_url }}"></use></svg>dkreitschmann@seemoo.tu-darmstadt.de</a>
 
+* **Vanessa Hahn** (design of the owl logo)
 
 ## Sponsors
 

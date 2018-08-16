@@ -6,12 +6,15 @@ permalink: /publications/
 
 Feel free to browse our academic publications and technical reports.
 
-* Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the *Apple Wireless Direct Link* Ad hoc Protocol.** In *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India.
+* Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM.
 <a href="https://doi.org/10.1145/3241539.3241566"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3241566</a>
 <a href="https://arxiv.org/abs/1808.03156"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 
-* David Kreitschmann. **User Manual for the Apple CoreCapture Framework.** *arXiv submit/2333251*, 2018.
-<a href="https://seemoo.de/corecapture-manual"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+* Milan Stute, David Kreitschmann, and Matthias Hollick. **Demo: Linux Goes Apple Picking: Cross-Platform Ad hoc Communication with Apple Wireless Direct Link.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM.
+<a href="https://doi.org/10.1145/3241539.3267716"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3267716</a>
+
+* David Kreitschmann. **User Manual for the Apple CoreCapture Framework.** *arXiv:1808.07353*, 2018.
+<a href="https://arxiv.org/abs/1808.07353"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 
 So far, our work resulted in the disclosure of the following security vulnerabilities ([CVE](http://cve.mitre.org/about/) entries):
 
