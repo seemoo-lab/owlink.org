@@ -2,7 +2,6 @@
 layout: post
 title:  "MobiCom ’18 Demo Accepted"
 date:   2018-08-16 08:00:00 -0400
-categories: paper awdl
 ---
 
 Our demo paper **Linux Goes Apple Picking: Cross-Platform Ad hoc Communication with Apple Wireless Direct Link** was accepted at [ACM MobiCom ’18](https://sigmobile.org/mobicom/2018/demos.php). In the demo, we present a working prototype of AWDL for Linux-based systems. Read our paper [here](/publications/).
