@@ -26,7 +26,7 @@ If our project helps you to produce a publication which includes a bibliography,
 ```
 @electronic{owl:project,
 	author = {Stute, Milan and Kreitschmann, David and Hollick, Matthias},
-	title = {Open Wireless Link: Dissecting Apple's Wireless Ecosystem},
+	title = {The Open Wireless Link Project},
 	url = {https://owlink.org},
 	year = {2018},
 }
