@@ -33,7 +33,7 @@ We compiled a non-exhaustive list with applications which use (✓) or do not us
 | Handoff                | ✗    | ✗    | ✓    | "[Each Mac, iPhone, iPad, or iPod touch has Wi-Fi turned on][handoff]" is not a requirement. Part of [*Continuity* framework][continuity]. |
 | Universal Clipboard    | ?    | ?    | ?    | Part of [*Continuity* framework][continuity]. |
 | iPhone Cellular Calls  | ✗    | ✓    | ✗    | Requirement: "[Each device is connected to the same network using Wi-Fi or Ethernet][phone]." Part of [*Continuity* framework][continuity]. |
-| iOS Automatic Setup    | ?    | ?    | ?    | [Transfers (complete) backup][ios-backup] from one device to another. |
+| Quick Start            | ✗    | ✓    | ✓    | [Transfers complete backup][ios-backup] from one device to another. Device discovery is done via BLE. |
 | Setup Apple TV         | ?    | ?    | ?    |          |
 
 [carplay-wwdc2017]: https://developer.apple.com/videos/play/wwdc2017/717/ "Developing Wireless CarPlay Systems, WWDC 2017"
