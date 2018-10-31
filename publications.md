@@ -6,12 +6,12 @@ permalink: /publications/
 
 Feel free to browse our academic publications and technical reports.
 
-* Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM.
+* Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM. ***Best Community Paper Award.***
 <a href="https://doi.org/10.1145/3241539.3241566"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3241566</a>
 <a href="https://arxiv.org/abs/1808.03156"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 <a href="https://www.youtube.com/watch?v=bKG8ZZq4oTo"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#video' | relative_url }}"></use></svg>Teaser</a>
 
-* Milan Stute, David Kreitschmann, and Matthias Hollick. **Demo: Linux Goes Apple Picking: Cross-Platform Ad hoc Communication with Apple Wireless Direct Link.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM.
+* Milan Stute, David Kreitschmann, and Matthias Hollick. **Demo: Linux Goes Apple Picking: Cross-Platform Ad hoc Communication with Apple Wireless Direct Link.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM. ***Best Demo Award.***
 <a href="https://doi.org/10.1145/3241539.3267716"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3267716</a>
 
 * David Kreitschmann. **User Manual for the Apple CoreCapture Framework.** *arXiv:1808.07353*, 2018.
