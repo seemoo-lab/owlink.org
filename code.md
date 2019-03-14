@@ -12,9 +12,11 @@ permalink: /code/
 </div>
 
 
-## Wireshark Dissector
+## Wireshark Dissectors
 
 Wireshark dissector for Apple Wireless Direct Link (AWDL) and Apple's CoreCapture logging framework.
+
+**Note:** The AWDL dissector is included in the official Wireshark builds [since version 3.0.0](https://www.wireshark.org/docs/relnotes/wireshark-3.0.0.html).
 
 <a href="https://github.com/seemoo-lab/wireshark-awdl"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
 
