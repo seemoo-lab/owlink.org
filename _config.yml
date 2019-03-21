@@ -28,8 +28,8 @@ homepage: www.seemoo.tu-darmstadt.de
 # Build settings
 markdown: kramdown
 theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
 
 show_excerpts: true
 
