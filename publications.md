@@ -21,8 +21,9 @@ Feel free to browse our academic publications and technical reports.
 
 So far, our work resulted in the disclosure of the following security vulnerabilities ([CVE](http://cve.mitre.org/about/) entries):
 
-* **CVE-2017-13886** for [macOS](https://support.apple.com/en-us/HT208331). *Impact:* An unprivileged user may change WiFi system parameters leading to denial of service.
-* **CVE-2018-4368** for [iOS](https://support.apple.com/en-in/HT209192), [macOS](https://support.apple.com/en-in/HT209193), [tvOS](https://support.apple.com/en-in/HT209194), and [watchOS](https://support.apple.com/en-in/HT209195). *Impact:* An attacker in a privileged position may be able to perform a denial of service attack.
+* **CVE-2017-13886** fixed in [macOS 10.13.2](https://support.apple.com/en-us/HT208331). *Impact:* An unprivileged user may change WiFi system parameters leading to denial of service.
+* **CVE-2018-4368** fixed in [iOS 12.1](https://support.apple.com/en-us/HT209192), [macOS 10.14.1](https://support.apple.com/en-us/HT209193), [tvOS 12.1](https://support.apple.com/en-us/HT209194), and [watchOS 5.1](https://support.apple.com/en-us/HT209195). *Impact:* An attacker in a privileged position may be able to perform a denial of service attack.
+* **CVE-2019-8567** fixed in [iOS 12.2](https://support.apple.com/en-us/HT209599). *Impact:* A device may be passively tracked by its WiFi MAC address.
 
 If our project helps you to produce a publication which includes a bibliography, we appreciate it if you cite this project and the relevant papers. Find all references in our <a href="/assets/references.bib">bibtex file</a>. Here is the reference for the project only:
 
