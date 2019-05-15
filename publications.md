@@ -6,6 +6,10 @@ permalink: /publications/
 
 Feel free to browse our academic publications and technical reports.
 
+* Milan Stute, Sashank Narain, Alex Mariotto, Alexander Heinrich, David Kreitschmann, Guevara Noubir, and Matthias Hollick. **A Billion Open Interfaces for Eve and Mallory: MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link.** *28th USENIX Security Symposium (USENIX Security ’19)*, August 14–16, 2019, Santa Clara, CA, USA.
+<a href="https://www.usenix.org/system/files/sec19fall_stute_prepub.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://www.usenix.org/conference/usenixsecurity19/presentation/stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
+
 * Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM. ***Best Community Paper Award.***
 <a href="https://doi.org/10.1145/3241539.3241566"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3241566</a>
 <a href="https://arxiv.org/pdf/1808.03156.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
@@ -24,6 +28,9 @@ So far, our work resulted in the disclosure of the following security vulnerabil
 * **CVE-2017-13886** fixed in [macOS 10.13.2](https://support.apple.com/en-us/HT208331). *Impact:* An unprivileged user may change WiFi system parameters leading to denial of service.
 * **CVE-2018-4368** fixed in [iOS 12.1](https://support.apple.com/en-us/HT209192), [macOS 10.14.1](https://support.apple.com/en-us/HT209193), [tvOS 12.1](https://support.apple.com/en-us/HT209194), and [watchOS 5.1](https://support.apple.com/en-us/HT209195). *Impact:* An attacker in a privileged position may be able to perform a denial of service attack.
 * **CVE-2019-8567** fixed in [iOS 12.2](https://support.apple.com/en-us/HT209599). *Impact:* A device may be passively tracked by its WiFi MAC address.
+* **CVE-2019-8612** fixed in [iOS 12.3](https://support.apple.com/en-us/HT210118), [macOS 10.14.5](https://support.apple.com/en-us/HT210119), [tvOS 12.3](https://support.apple.com/en-us/HT210120), and [watchOS 5.2.1](https://support.apple.com/en-us/HT210122). *Impact:* An attacker in a privileged network position can modify driver state.
+* **CVE-2019-8620** fixed in [iOS 12.3](https://support.apple.com/en-us/HT210118), [macOS 10.14.5](https://support.apple.com/en-us/HT210119), [tvOS 12.3](https://support.apple.com/en-us/HT210120), and [watchOS 5.2.1](https://support.apple.com/en-us/HT210122). *Impact:* A device may be passively tracked by its WiFi MAC address.
+
 
 If our project helps you to produce a publication which includes a bibliography, we appreciate it if you cite this project and the relevant papers. Find all references in our <a href="/assets/references.bib">bibtex file</a>. Here is the reference for the project only:
 
