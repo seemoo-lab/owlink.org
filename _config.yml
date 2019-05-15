@@ -18,7 +18,7 @@ author: Secure Mobile Networking Lab
 affiliation: Technische Universität Darmstadt
 #email: mstute@seemoo.tu-darmstadt.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Researching and reverse engineering Apple's wireless ecosystem focusing on the Apple Wireless Direct Link (AWDL) protocol.
+  Opening up Apple's wireless ecosystem around the Apple Wireless Direct Link (AWDL) protocol.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://owlink.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seemoolab
