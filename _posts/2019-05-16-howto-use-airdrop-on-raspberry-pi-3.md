@@ -85,7 +85,7 @@ In the last step, we'll install our AirDrop-compatible [OpenDrop](https://github
 Again, we need some dependencies:
 
 ```
-sudo apt install python3 python3-pip libjpeg-dev libopenjpeg-dev
+sudo apt install python3 python3-pip libjpeg-dev libopenjp2-7-dev
 ```
 
 Then, we can clone and install the software.
