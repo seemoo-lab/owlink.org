@@ -10,6 +10,9 @@ Feel free to browse our academic publications and technical reports.
 <a href="https://www.usenix.org/system/files/sec19fall_stute_prepub.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 <a href="https://www.usenix.org/conference/usenixsecurity19/presentation/stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
 
+* Milan Stute, David Kreitschmann, and Matthias Hollick. **Reverse Engineering and Evaluating the Apple Wireless Direct Link Protocol.** *GetMobile: Mobile Computing and Communications*, 23(1), March 2019. ACM.
+<a href="https://doi.org/10.1145/3351422.3351432"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3351422.3351432</a>
+
 * Milan Stute, David Kreitschmann, and Matthias Hollick. **One Billion Apples’ Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol.** *The 24th Annual International Conference on Mobile Computing and Networking (MobiCom ’18)*, October 29–November 2, 2018, New Delhi, India. ACM. ***Best Community Paper Award.***
 <a href="https://doi.org/10.1145/3241539.3241566"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3241539.3241566</a>
 <a href="https://arxiv.org/pdf/1808.03156.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
