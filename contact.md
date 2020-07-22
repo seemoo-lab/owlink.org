@@ -8,9 +8,9 @@ permalink: /contact/
 
 * **Milan Stute** (main contact)
 <a href="mailto:mstute@seemoo.tu-darmstadt.de"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#envelope' | relative_url }}"></use></svg>mstute@seemoo.tu-darmstadt.de</a>
-<a href="https://www.seemoo.tu-darmstadt.de/team/milan-stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#home' | relative_url }}"></use></svg>homepage</a>
+<a href="https://www.seemoo.de/mstute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#home' | relative_url }}"></use></svg>homepage</a>
 
-* **David Kreitschmann**
+* **David Kreitschmann** (working area: AWDL)
 <a href="mailto:dkreitschmann@seemoo.tu-darmstadt.de"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#envelope' | relative_url }}"></use></svg>dkreitschmann@seemoo.tu-darmstadt.de</a>
 
 * **Vanessa Hahn** (design of the owl logo)
