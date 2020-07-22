@@ -13,6 +13,9 @@ permalink: /contact/
 * **David Kreitschmann** (working area: AWDL)
 <a href="mailto:dkreitschmann@seemoo.tu-darmstadt.de"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#envelope' | relative_url }}"></use></svg>dkreitschmann@seemoo.tu-darmstadt.de</a>
 
+* **Alexander Heinrich** (working area: AirDrop, BTLEmap)
+<a href="mailto:aheinrich@seemoo.tu-darmstadt.de"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#envelope' | relative_url }}"></use></svg>aheinrich@seemoo.tu-darmstadt.de</a>
+
 * **Vanessa Hahn** (design of the owl logo)
 
 

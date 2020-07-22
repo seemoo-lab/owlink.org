@@ -6,6 +6,12 @@ permalink: /publications/
 
 Feel free to browse our academic publications and technical reports.
 
+* Alexander Heinrich, Milan Stute, and Matthias Hollick. **BTLEmap: Nmap for Bluetooth Low Energy.** *13th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’20)*, July 8–10, 2020, Virtual Conference. ***Best Demo Award.***
+<a href="https://doi.org/10.1145/3395351.3401796"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3395351.3401796</a>
+<a href="https://wisec2020.ins.jku.at/accepted-papers/#DEMO__BTLEmap__Nmap_for_Bluetooth_Low_Energy"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
+<a href="https://arxiv.org/pdf/2007.00349"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://youtu.be/wsBZIqJHCHo"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#video' | relative_url }}"></use></svg>Talk</a>
+
 * Milan Stute, Sashank Narain, Alex Mariotto, Alexander Heinrich, David Kreitschmann, Guevara Noubir, and Matthias Hollick. **A Billion Open Interfaces for Eve and Mallory: MitM, DoS, and Tracking Attacks on iOS and macOS Through Apple Wireless Direct Link.** *28th USENIX Security Symposium (USENIX Security ’19)*, August 14–16, 2019, Santa Clara, CA, USA.
 <a href="https://www.usenix.org/conference/usenixsecurity19/presentation/stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
 <a href="https://www.usenix.org/system/files/sec19-stute.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>

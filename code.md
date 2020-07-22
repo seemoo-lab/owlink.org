@@ -31,6 +31,15 @@ As part of our research, we developed several tools including implementations of
 <a href="https://github.com/seemoo-lab/opendrop"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
 
 
+<img class="logo-left" title="BTLEmap logo" alt="BTLEmap logo" src="/assets/logos/btlemap.png">
+
+## BTLEmap
+
+*BTLEmap* is an auditing tool for Bluetooth Low Energy (BLE) environments. It allows for viewing and inspecting nearby BLE devices. The tool features a proximity view, a fingerprinting module, and a dissector for vendor-specific advertisements.
+
+<a href="https://github.com/seemoo-lab/btlemap"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
+
+
 <div class="screenshot">
 	<a href="/assets/wireshark.png">
 		<img title="Wireshark dissecting an AWDL frame" alt="Wireshark dissecting an AWDL frame" src="/assets/wireshark.png">
