@@ -12,4 +12,4 @@ We conducted a security and privacy analysis on AWDL and AirDrop and are proud t
 
 ## Video of Man-in-the-Middle attack on AirDrop
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5T7Qatoh0Vo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container-wide"><iframe src="https://www.youtube.com/embed/5T7Qatoh0Vo?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>

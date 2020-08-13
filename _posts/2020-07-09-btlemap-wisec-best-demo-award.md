@@ -9,7 +9,7 @@ In short, BTLEmap allows you to view and inspect nearby Bluetooth Low Energy dev
 The code is available on [GitHub](https://github.com/seemoo-lab/BTLEmap).
 Read the [paper](/publications/) or watch the talk for a short walk-through.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wsBZIqJHCHo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container-wide"><iframe src="https://www.youtube.com/embed/wsBZIqJHCHo?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Abstract
 

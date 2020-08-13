@@ -12,4 +12,4 @@ This work was a collaboration between the [Secure Mobile Networking Lab headed b
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5D9NeKapUo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-container-wide"><iframe src="https://www.youtube.com/embed/M5D9NeKapUo?rel=0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
