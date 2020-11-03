@@ -15,7 +15,7 @@ The following steps are adapted from the project's [README](https://github.com/s
 
 First, we need to install some dependencies.
 
-```
+```bash
 sudo apt update && apt upgrade
 sudo apt install raspberrypi-kernel-headers git \
                  libgmp3-dev gawk qpdf bison flex make
@@ -24,7 +24,7 @@ sudo apt remove wpasupplicant
 
 Then, we prepare Nexmon...
 
-```
+```bash
 git clone https://github.com/seemoo-lab/nexmon.git
 cd nexmon
 touch DISABLE_STATISTICS
@@ -32,7 +32,7 @@ touch DISABLE_STATISTICS
 
 ... and compile required libraries and tools.
 
-```
+```bash
 sudo su
 if [[ ! -f /usr/lib/arm-linux-gnueabihf/libisl.so.10 ]]; then \
    cd buildtools/isl-0.10/ && ./configure && make && make install && \
@@ -46,7 +46,7 @@ cd utilities/nexutil/ && make && make install && cd ../../
 
 We are now ready to build and install the monitor mode firmware patch.
 
-```
+```bash
 cd patches/bcm43430a1/7_45_41_46/nexmon/
 make
 make backup-firmware
@@ -60,14 +60,14 @@ make install-firmware
 
 Next, we are installing [OWL](https://github.com/seemoo-lab/owl), our AWDL implementation. First, we need some libraries (libpcap, libev, and libnl).
 
-```
+```bash
 sudo apt install libpcap-dev libev-dev libnl-3-dev \
                  libnl-genl-3-dev libnl-route-3-dev
 ```
 
 Then, it should be as easy as:
 
-```
+```bash
 git clone https://github.com/seemoo-lab/owl.git
 cd owl
 git submodule update --init
@@ -84,13 +84,13 @@ sudo make install
 In the last step, we'll install our AirDrop-compatible [OpenDrop](https://github.com/seemoo-lab/opendrop) client and server.
 Again, we need some dependencies:
 
-```
+```bash
 sudo apt install python3 python3-pip libjpeg-dev libopenjp2-7-dev
 ```
 
 Then, we can clone and install the software.
 
-```
+```bash
 git clone https://github.com/seemoo-lab/opendrop.git
 sudo pip3 install ./opendrop
 ```
@@ -109,7 +109,7 @@ Now that all tools are installed, we can start a test run and use the Raspberry 
 
 Since we use Nexmon to enable monitor mode, we need to manually enable monitor mode and set the correct Wi-Fi channel (the RPi3 only supports the 2.4 GHz band, so we'll use channel 6).
 
-```
+```bash
 sudo iw phy `iw dev wlan0 info | gawk '/wiphy/ {printf "phy" $2}'` interface add mon0 type monitor
 sudo ifconfig mon0 up
 sudo nexutil -k6
@@ -117,15 +117,14 @@ sudo nexutil -k6
 
 Next, we start `owl` to enable frame reception via AWDL (option `-N` tells `owl` that the interface is already in monitor mode, you can add `-v` to increase the logging output).
 
-```
-sudo  owl -i mon0 -N
+```bash
+sudo owl -i mon0 -N
 ```
 
 In a second shell, we can start the `opendrop` receiver.
 
-```
+```bash
 opendrop receive
 ```
 
 Now, when opening the sharing pane on an iOS device, a new receiver appears after a short delay and we can send files! 
-
