@@ -21,9 +21,9 @@ permalink: /contact/
 
 ## Sponsors
 
-<a href="https://seemoo.tu-darmstadt.de"><img class="poweredby-logo" alt="Secure Mobile Networking Lab" src="/assets/logos/seemoo.png"></a>
-<a href="https://www.cysec.tu-darmstadt.de"><img class="poweredby-logo" alt="CYSEC" src="/assets/logos/cysec.png"></a>
-<a href="https://www.tu-darmstadt.de"><img class="poweredby-logo" alt="TU Darmstadt" src="/assets/logos/tud.png"></a>
-<a href="https://www.emergencity.de"><img class="poweredby-logo" alt="emergenCITY" src="/assets/logos/emergencity.png"></a>
-<a href="https://nicer.tu-darmstadt.de"><img class="poweredby-logo" alt="NICER" src="/assets/logos/nicer.png"></a>
-<a href="https://www.athene-center.de"><img class="poweredby-logo" alt="ATHENE" src="/assets/logos/athene.png"></a>
+<a href="https://seemoo.tu-darmstadt.de"><img class="poweredby-logo" alt="Secure Mobile Networking Lab" src="{% link /assets/logos/seemoo.png %}"></a>
+<a href="https://www.cysec.tu-darmstadt.de"><img class="poweredby-logo" alt="CYSEC" src="{% link /assets/logos/cysec.png %}"></a>
+<a href="https://www.tu-darmstadt.de"><img class="poweredby-logo" alt="TU Darmstadt" src="{% link /assets/logos/tud.svg %}"></a>
+<a href="https://www.emergencity.de"><img class="poweredby-logo" alt="emergenCITY" src="{% link /assets/logos/emergencity.svg %}"></a>
+<a href="https://nicer.tu-darmstadt.de"><img class="poweredby-logo" alt="NICER" src="{% link /assets/logos/nicer.png %}"></a>
+<a href="https://www.athene-center.de"><img class="poweredby-logo" alt="ATHENE" src="{% link /assets/logos/athene.png %}"></a>

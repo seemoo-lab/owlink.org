@@ -7,13 +7,13 @@ permalink: /code/
 As part of our research, we developed several tools including implementations of AWDL and AirDrop that we publish as open source software.
 
 <div class="screenshot">
-	<a href="/assets/owl.png">
+	<a href="{% link /assets/owl.png %}">
 		<img title="Console output of our AWDL implementation OWL" alt="Console output of our AWDL implementation OWL" src="/assets/owl.png">
 	</a>
 	<div class="caption">Console output of our AWDL implementation <i>OWL</i></div>
 </div>
 
-<img class="logo-left" title="OWL logo" alt="OWL logo" src="/assets/logos/owl.png">
+<img class="logo-left" title="OWL logo" alt="OWL logo" src="{% link /assets/logos/owl.svg %}">
 
 ## OWL
 
@@ -22,7 +22,7 @@ As part of our research, we developed several tools including implementations of
 <a href="https://github.com/seemoo-lab/owl"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
 
 
-<img class="logo-left" title="AirDrop logo" alt="AirDrop logo" src="/assets/logos/airdrop.png">
+<img class="logo-left" title="AirDrop logo" alt="AirDrop logo" src="{% link /assets/logos/airdrop.svg %}">
 
 ## OpenDrop
 
@@ -31,7 +31,7 @@ As part of our research, we developed several tools including implementations of
 <a href="https://github.com/seemoo-lab/opendrop"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
 
 
-<img class="logo-left" title="BTLEmap logo" alt="BTLEmap logo" src="/assets/logos/btlemap.png">
+<img class="logo-left" title="BTLEmap logo" alt="BTLEmap logo" src="{% link /assets/logos/btlemap.png %}">
 
 ## BTLEmap
 
@@ -41,13 +41,13 @@ As part of our research, we developed several tools including implementations of
 
 
 <div class="screenshot">
-	<a href="/assets/wireshark.png">
-		<img title="Wireshark dissecting an AWDL frame" alt="Wireshark dissecting an AWDL frame" src="/assets/wireshark.png">
+	<a href="{% link /assets/wireshark.png %}">
+		<img title="Wireshark dissecting an AWDL frame" alt="Wireshark dissecting an AWDL frame" src="{% link /assets/wireshark.png %}">
 	</a>
 	<div class="caption">Wireshark dissecting an AWDL frame</div>
 </div>
 
-<img class="logo-left" title="Wireshark logo" alt="Wireshark logo" src="/assets/logos/wireshark.png">
+<img class="logo-left" title="Wireshark logo" alt="Wireshark logo" src="{% link /assets/logos/wireshark.png %}">
 
 ## Protocol Dissectors
 
