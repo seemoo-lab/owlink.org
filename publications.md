@@ -48,6 +48,8 @@ So far, our work resulted in the disclosure of the following security vulnerabil
 * **NO-CVE-2019-2** fixed in [iOS 13.1 and iPadOS 13.1](https://support.apple.com/en-us/HT210603). (No CVE, but mentioned in additional acknowledgments.) *Impact:* An AirDrop user may be tricked into sending files to an attacker.
 * **CVE-2019-8799** fixed in [iOS 13.1 and iPadOS 13.1](https://support.apple.com/en-us/HT210603), [macOS 10.15](https://support.apple.com/en-us/HT210634), [tvOS 13](https://support.apple.com/en-us/HT210604), and [watchOS 6](https://support.apple.com/en-us/HT210607). *Impact:* An attacker in physical proximity may be able to passively observe device names in AWDL communications.
 * **CVE-2019-8787** fixed in [iOS 13.2 and iPadOS 13.2](https://support.apple.com/en-us/HT210721), [macOS 10.15.1](https://support.apple.com/en-us/HT210722), [tvOS 13.2](https://support.apple.com/en-us/HT210723), and [watchOS 6.1](https://support.apple.com/en-us/HT210724). *Impact:* A remote attacker may be able to leak memory.
+* **CVE-2020-9986** fixed in [macOS 10.15.7](https://support.apple.com/en-us/HT211849). *Impact:* A malicious application may be able to read sensitive location information.
+
 
 If our project helps you to produce a publication which includes a bibliography, we appreciate it if you cite this project and the relevant papers. Find all references in our <a href="/assets/references.bib">bibtex file</a>. Here is the reference for the project only:
 
