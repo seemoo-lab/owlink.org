@@ -31,6 +31,13 @@ As part of our research, we developed several tools including implementations of
 <a href="https://github.com/seemoo-lab/opendrop"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
 
 
+## OpenWifiPass
+
+*OpenWifiPass* is a command-line tool written in Python that allows for [sharing a Wi-Fi password with macOS or iOS devices](https://support.apple.com/en-us/HT209368). OpenWifiPass currently only supports the grantor role of Apple's Wi-Fi Password Sharing protocol.
+
+<a href="https://github.com/seemoo-lab/openwifipass"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span>Code</span></a>
+
+
 <img class="logo-left" title="BTLEmap logo" alt="BTLEmap logo" src="{% link /assets/logos/btlemap.png %}">
 
 ## BTLEmap
