@@ -1,0 +1,33 @@
+findmy:
+  - title: "Get Apple to track your Bluetooth devices for you"
+    paper: Hackaday
+    url: https://hackaday.com/2021/03/05/get-apple-to-track-your-bluetooth-devices-for-you/
+    date: 2021-03-05
+  - title: "OpenHaystack: Sicherheitsforscher klinken sich in Apples \"Wo ist?\"-Netzwerk ein"
+    paper: heise
+    url: https://www.heise.de/news/OpenHaystack-Sicherheitsforscher-klinken-sich-in-Apples-Wo-ist-Netzwerk-ein-5073566.html
+    date: 2021-03-05
+  - title: "Bug in Apple's Find My Feature Could've Exposed Users' Location Histories"
+    paper: The Hacker News
+    url: https://thehackernews.com/2021/03/bug-in-apples-find-my-feature-couldve.html
+    date: 2021-03-05
+  - title: "OpenHaystack: Tracking Personal 'AirTags' via Apple's Find My Network"
+    paper: Hacker News
+    url: https://news.ycombinator.com/item?id=26342504
+    date: 2021-03-04
+  - title: "Security Researchers Develop Framework for Tracking Bluetooth Devices Using Find My"
+    paper: MacRumors
+    url: https://www.macrumors.com/2021/03/04/security-researchers-find-my-tracking-framework/
+    date: 2021-03-04
+  - title: "OpenHaystack is a new open-source tool that lets you create DIY AirTags on Apple's Find My network"
+    paper: The Verge
+    url: https://www.theverge.com/2021/3/4/22313461/openhaystack-apple-find-my-network-diy-airtags
+    date: 2021-03-04
+  - title: "Tired of waiting for Apple’s AirTags? This open-source project lets you create your own"
+    paper: 9to5Mac
+    url: https://9to5mac.com/2021/03/04/tired-of-waiting-for-apples-airtags-this-open-source-project-lets-you-create-your-own/
+    date: 2021-03-04
+  - title: "\"Wo ist\" die Sicherheitslücke?"
+    paper: TU Darmstadt
+    url: https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_303360.de.jsp
+    date: 2021-03-04

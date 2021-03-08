@@ -37,6 +37,7 @@ header_pages:
   - publications.md
   - code.md
   - wiki.md
+  - press.md
   - contact.md
 
 # Exclude from processing.
