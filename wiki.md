@@ -10,7 +10,6 @@ According to [US patent 20180083858A1](https://patents.google.com/patent/US20180
 
 > The limitations of IBSS mode (and its Wi-Fi infrastructure predecessors) led the Wi-Fi Alliance to define Wi-Fi Direct. Further, due to concerns regarding Wi-Fi Direct, Apple Wireless Direct Link (AWDL) was developed by Apple and eventually adopted by the Wi-Fi Alliance as the basis for Neighbor Awareness Networking (NAN).
 
-
 ### How does AWDL work?
 
 In technical terms, [we found](/publications/) that AWDL works essentially works as follow:
@@ -26,12 +25,12 @@ We compiled a non-exhaustive list with applications which use (✓) or do not us
 | Service                | AWDL | AP   | BLE  | Comment  |
 | ---------------------- |:----:|:----:|:----:| -------- |
 | AirDrop                | ✓    | ✗    | ✓    | Exchange files between two adjacent devices. |
-| Wi-Fi Password Sharing | ✗    | ✗    | ?    | Uses "[a similar mechanism to AirDrop.][wifi-password-sharing]"
+| Wi-Fi Password Sharing | ✗    | ✗    | ✓    | Uses "[a similar mechanism to AirDrop.][wifi-password-sharing]"
 | AirPlay                | ✓    | ✓    | ?    | Stream media to an Apple TV, HomePod, etc. |
 | CarPlay                | ?    | ?    | ?    | Apparently [uses iPhone's hot spot function.][carplay-wwdc2017] |
 | Auto Unlock            | ✓    | ✗    | ✓    | Unlock Mac with Apple Watch. Uses AWDL to enable direct communication for ranging process. Part of [*Continuity* framework][continuity]. |
 | Handoff                | ✗    | ✗    | ✓    | "[Each Mac, iPhone, iPad, or iPod touch has Wi-Fi turned on][handoff]" is not a requirement. Part of [*Continuity* framework][continuity]. |
-| Universal Clipboard    | ?    | ?    | ?    | Part of [*Continuity* framework][continuity]. |
+| Universal Clipboard    | ✓    | ✗    | ✓    | Part of [*Continuity* framework][continuity]. |
 | iPhone Cellular Calls  | ✗    | ✓    | ✗    | Requirement: "[Each device is connected to the same network using Wi-Fi or Ethernet][phone]." Part of [*Continuity* framework][continuity]. |
 | Quick Start            | ✗    | ✓    | ✓    | [Transfers complete backup][ios-backup] from one device to another. Device discovery is done via BLE. |
 | Setup Apple TV         | ?    | ?    | ?    |          |
