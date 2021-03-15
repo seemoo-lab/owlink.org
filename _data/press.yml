@@ -1,6 +1,6 @@
 findmy:
   - title: "Security Analysis of Apple's \"Find My…\" Protocol"
-    paper: Bruce Schneier
+    paper: Schneier on Security
     url: https://www.schneier.com/blog/archives/2021/03/security-analysis-of-apples-find-my-protocol.html
     date: 2021-03-15
   - title: "Get Apple to track your Bluetooth devices for you"
