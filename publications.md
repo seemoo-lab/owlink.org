@@ -7,8 +7,12 @@ permalink: /publications/
 Feel free to browse our academic publications and technical reports.
 
 * Alexander Heinrich, Matthias Hollick, Thomas Schneider, Milan Stute, Christian Weinert. **PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Virtual Event.
+<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/heinrich"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
+<a href="https://www.usenix.org/system/files/sec21fall-heinrich.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 
 * Milan Stute, Alexander Heinrich, Jannik Lorenz, and Matthias Hollick. **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Virtual Event.
+<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
+<a href="https://www.usenix.org/system/files/sec21fall-stute.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
 
 * Alexander Heinrich, Milan Stute, Tim Kornhuber, Matthias Hollick. **Who Can _Find My_ Devices? Security and Privacy of Apple’s Crowd-Sourced Bluetooth Location Tracking System.** *Proceedings on Privacy Enhancing Technologies (PoPETs)*, July 12–16, 2021, Virtual Event.
 <a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Paper (Preprint)</a>
