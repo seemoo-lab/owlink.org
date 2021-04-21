@@ -7,15 +7,17 @@ permalink: /publications/
 Feel free to browse our academic publications and technical reports.
 
 * Alexander Heinrich, Matthias Hollick, Thomas Schneider, Milan Stute, Christian Weinert. **PrivateDrop: Practical Privacy-Preserving Authentication for Apple AirDrop.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Virtual Event.
-<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/heinrich"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
-<a href="https://www.usenix.org/system/files/sec21fall-heinrich.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://privatedrop.github.io"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
+<a href="https://www.usenix.org/system/files/sec21fall-heinrich.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Preprint</a>
 
 * Milan Stute, Alexander Heinrich, Jannik Lorenz, and Matthias Hollick. **Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking, DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and Wi-Fi.** *30th USENIX Security Symposium (USENIX Security ’21)*, August 11–13, 2021, Virtual Event.
 <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/stute"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
-<a href="https://www.usenix.org/system/files/sec21fall-stute.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://www.usenix.org/system/files/sec21fall-stute.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Preprint</a>
 
 * Alexander Heinrich, Milan Stute, Tim Kornhuber, Matthias Hollick. **Who Can _Find My_ Devices? Security and Privacy of Apple’s Crowd-Sourced Bluetooth Location Tracking System.** *Proceedings on Privacy Enhancing Technologies (PoPETs)*, July 12–16, 2021, Virtual Event.
-<a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Paper (Preprint)</a>
+<a href="https://doi.org/10.2478/popets-2021-0045"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.2478/popets-2021-0045</a>
+<a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Paper</a>
+<a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Preprint</a>
 
 * Alexander Heinrich, Milan Stute, and Matthias Hollick. **BTLEmap: Nmap for Bluetooth Low Energy.** *13th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’20)*, July 8–10, 2020, Virtual Event. ***Best Demo Award.***
 <a href="https://doi.org/10.1145/3395351.3401796"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3395351.3401796</a>
