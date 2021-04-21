@@ -1,4 +1,7 @@
 findmy:
+  - title: "Eine Milliarde Smartphones helfen beim Finden"
+    paper: "Frankfurter Allgemeine Zeitung"
+    date: 2021-04-06
   - title: "Security Analysis of Apple's \"Find My…\" Protocol"
     paper: Schneier on Security
     url: https://www.schneier.com/blog/archives/2021/03/security-analysis-of-apples-find-my-protocol.html
