@@ -1,3 +1,13 @@
+privatedrop:
+  - title: "Apple AirDrop shares more than files"
+    paper: TU Darmstadt
+    url: https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_311168.en.jsp
+    date: 2021-04-21
+  - title: "Apple, you've AirDrop'd the ball: Academics detail ways to leak contact info of nearby iThings for spear-phishing"
+    paper: The Register
+    url: https://www.theregister.com/2021/04/22/airdrop_contact_leaks/
+    date: 2021-04-22
+
 findmy:
   - title: "Eine Milliarde Smartphones helfen beim Finden"
     paper: "Frankfurter Allgemeine Zeitung"
