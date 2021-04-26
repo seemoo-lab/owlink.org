@@ -7,6 +7,30 @@ privatedrop:
     paper: The Register
     url: https://www.theregister.com/2021/04/22/airdrop_contact_leaks/
     date: 2021-04-22
+  - title: "Researchers Discover AirDrop Security Flaw That Could Expose Personal Data to Strangers"
+    paper: MacRumors
+    url: https://www.macrumors.com/2021/04/23/airdrop-researchers-security-flaw/
+    date: 2021-04-23
+  - title: "Apple AirDrop Flaws Could Let Hackers Grab Users’ Phone Numbers and Email Addresses"
+    paper: Graham Cluley
+    url: https://hotforsecurity.bitdefender.com/blog/apple-airdrop-flaws-could-let-hackers-grab-users-phone-numbers-and-email-addresses-25712.html
+    date: 2021-04-23
+  - title: "AirDrop flaw can easily reveal your phone number and email address to strangers"
+    paper: 9to5Mac
+    url: https://9to5mac.com/2021/04/23/airdrop-flaw/
+    date: 2021-04-23
+  - title: "'Severe' AirDrop exploit could expose email and phone number in highly specific circumstances"
+    paper: AppleInsider
+    url: https://appleinsider.com/articles/21/04/23/severe-airdrop-exploit-could-expose-email-and-phone-number-in-highly-specific-circumstances
+    date: 2021-04-23
+  - title: "Security firm warns of ‘significant privacy leak’ in AirDrop"
+    paper: Macworld
+    url: https://www.macworld.com/article/344253/security-firm-warns-of-significant-privacy-leak-in-airdrop.html
+    date: 2021-04-23
+  - title: "Sicherheitsforscher: AirDrop kann Kontaktdaten des iPhone-Besitzers preisgeben"
+    paper: heise
+    url: https://www.heise.de/news/Sicherheitsforscher-AirDrop-kann-Kontaktdaten-des-iPhone-Besitzers-preisgeben-6026661.html
+    date: 2021-04-23
 
 findmy:
   - title: "Eine Milliarde Smartphones helfen beim Finden"
