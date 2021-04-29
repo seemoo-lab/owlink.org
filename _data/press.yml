@@ -31,6 +31,10 @@ privatedrop:
     paper: heise
     url: https://www.heise.de/news/Sicherheitsforscher-AirDrop-kann-Kontaktdaten-des-iPhone-Besitzers-preisgeben-6026661.html
     date: 2021-04-23
+  - title: "AirDrop Is Leaking Email Addresses and Phone Numbers"
+    paper: WIRED
+    url: https://www.wired.com/story/airdrop-leaking-email-addresses-and-phone-numbers/
+    date: 2021-04-27
 
 findmy:
   - title: "Eine Milliarde Smartphones helfen beim Finden"
