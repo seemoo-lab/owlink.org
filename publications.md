@@ -19,7 +19,11 @@ Feel free to browse our academic publications and technical reports.
 <a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Paper</a>
 <a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Preprint</a>
 
-* Alexander Heinrich, Milan Stute, and Matthias Hollick. **BTLEmap: Nmap for Bluetooth Low Energy.** *13th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’20)*, July 8–10, 2020, Virtual Event. ***Best Demo Award.***
+* Alexander Heinrich, Milan Stute, and Matthias Hollick. **DEMO: OpenHaystack: A Framework for Tracking Personal Bluetooth Devices via Apple’s Massive Find My Network.** *14th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’21)*, June 28–July 2, 2021, Virtual Event.
+
+* Alexander Heinrich, Matthias Hollick, Thomas Schneider, Milan Stute, Christian Weinert. **DEMO: AirCollect: Efficiently Recovering Hashed Phone Numbers Leaked via Apple AirDrop.** *14th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’21)*, June 28–July 2, 2021, Virtual Event.
+
+* Alexander Heinrich, Milan Stute, and Matthias Hollick. **DEMO: BTLEmap: Nmap for Bluetooth Low Energy.** *13th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’20)*, July 8–10, 2020, Virtual Event. ***Best Demo Award.***
 <a href="https://doi.org/10.1145/3395351.3401796"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3395351.3401796</a>
 <a href="https://wisec2020.ins.jku.at/accepted-papers/#DEMO__BTLEmap__Nmap_for_Bluetooth_Low_Energy"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
 <a href="https://arxiv.org/pdf/2007.00349"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
