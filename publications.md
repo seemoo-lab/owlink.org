@@ -17,7 +17,13 @@ Feel free to browse our academic publications and technical reports.
 <a href="https://www.petsymposium.org/2021/files/papers/issue3/popets-2021-0045.pdf"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Paper</a>
 <a href="https://arxiv.org/abs/2103.02282"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>Preprint</a>
 * Alexander Heinrich, Milan Stute, and Matthias Hollick. **DEMO: OpenHaystack: A Framework for Tracking Personal Bluetooth Devices via Apple’s Massive Find My Network.** *14th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’21)*, June 28–July 2, 2021, Virtual Event.
+<a href="https://doi.org/10.1145/3448300.3468251"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3448300.3468251</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3448300.3468251"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://www.youtube.com/watch?v=xc8wHaRcwJ8"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#video' | relative_url }}"></use></svg>Teaser</a>
 * Alexander Heinrich, Matthias Hollick, Thomas Schneider, Milan Stute, Christian Weinert. **DEMO: AirCollect: Efficiently Recovering Hashed Phone Numbers Leaked via Apple AirDrop.** *14th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’21)*, June 28–July 2, 2021, Virtual Event.
+<a href="https://doi.org/10.1145/3448300.3468252"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3448300.3468252</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3448300.3468252"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#file-pdf' | relative_url }}"></use></svg>PDF</a>
+<a href="https://www.youtube.com/watch?v=Or0Gzec-SIo"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#video' | relative_url }}"></use></svg>Teaser</a>
 * Alexander Heinrich, Milan Stute, and Matthias Hollick. **DEMO: BTLEmap: Nmap for Bluetooth Low Energy.** *13th ACM Conference on Security and Privacy in Wireless and Mobile (WiSec ’20)*, July 8–10, 2020, Virtual Event. ***Best Demo Award.***
 <a href="https://doi.org/10.1145/3395351.3401796"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>doi:10.1145/3395351.3401796</a>
 <a href="https://wisec2020.ins.jku.at/accepted-papers/#DEMO__BTLEmap__Nmap_for_Bluetooth_Low_Energy"><svg class="svg-icon"><use xlink:href="{{ '/assets/files.svg#external-link-alt' | relative_url }}"></use></svg>Website</a>
