@@ -4,7 +4,7 @@ title:  "Howto: Use AirDrop on a Raspberry Pi 3"
 date:   2019-05-16 07:28:00 +0200
 ---
 
-In this article, we are going to get AirDrop running on a Raspberry Pi 3 (not B+, unfortunately) running Rasbian Stretch.
+In this article, we are going to get AirDrop running on a Raspberry Pi 3 (not B+, unfortunately) running Raspbian Stretch.
 While AirDrop itself implements a HTTP-based protocol (see [OpenDrop](/code/)), it uses a dedicated Wi-Fi based link layer called Apple Wireless Direct Link (AWDL). In order to use AirDrop, we'll enable AWDL capabilities on the Raspberry Pi using [OWL](/code/), our open AWDL implementation. OWL is implemented as user space program and requires a Wi-Fi card with working monitor mode and frame injection.
 
 
